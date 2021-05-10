@@ -111,7 +111,7 @@ i {
   display: block;
   position: fixed;
   box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
-  background: url("../media/tree-sky.jpg");
+  background: url("tree-sky.jpg");
   opacity: 0.9;
   background-size: cover;
   border-radius: 10px;
